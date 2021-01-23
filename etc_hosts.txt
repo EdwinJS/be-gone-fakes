@@ -1,4 +1,4 @@
-0.0.0.0 regated.com
+0.0.0.0 regated.com 
 0.0.0.0 www.regated.com
 0.0.0.0 americanlookout.com
 0.0.0.0 www.americanlookout.com
